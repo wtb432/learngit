@@ -5,3 +5,5 @@ fm'e2v[reotievngbtiorngwn
 jegje[wrgjfpouobghn
 pewourngvoegvowritpngbowe
 after submitting the git,I start to write true sentence to operating git;
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
